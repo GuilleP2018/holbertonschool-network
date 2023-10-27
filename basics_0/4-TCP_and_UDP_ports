@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This script will check if a port is open or not.
+
+
+netstat -l -p
